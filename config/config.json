@@ -1,0 +1,13 @@
+{
+    "offsetUpdate": 0,
+    "timeout": 10,
+    "apiToken": "5046824410:AAGR6jhP2X5v0kWDLg_cHIc3wRytHXHLUoQ",
+    "debug": true,
+    "database": {
+        "host": "localhost",
+        "port": 5432,
+        "user": "postgres",
+        "password": "1234",
+        "dbname": "password_manager"
+    }
+  }
